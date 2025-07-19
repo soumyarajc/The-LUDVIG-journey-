@@ -33,6 +33,7 @@ We've all been there, but now, let LUDVIG be there too. Because LUDVIG isn't jus
 
 - [x] Draft project structure
 - [x] Create basic chat assistant
+- [ ] Add Image Generation
 - [ ] Add voice interaction
 - [ ] Develop higher logic 
 - [ ] Connect to APIs
